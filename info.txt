@@ -12,5 +12,6 @@ To making ssc charts you need following all game mode
  pump: making about 5 panels 6 panels and 10 panels
  smx
  techno: this a 4 panels 5 panels 8 panels and 9 panels also double included
+ boxing
 
 if done all difficulty submit with pull request
