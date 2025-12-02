@@ -4,7 +4,7 @@ To making ssc charts you need following all game mode
  dance: Recommend Game Modes Also You Add A more Chart Except 3 panels
  ds3ddx: This Is Taiwan LOL Also 5 panels this game mode
  ez2: base of 3 panels you can also created a real and double
- kbx: this is keyboard need 1 to 15 button
+ kbx: this is keyboard need 1 to 19 button
  kickbox
  maniax
  para
@@ -13,5 +13,8 @@ To making ssc charts you need following all game mode
  smx
  techno: this a 4 panels 5 panels 8 panels and 9 panels also double included
  boxing
-
+ gddm
+ gdgf
+ gh
+ rb
 if done all difficulty submit with pull request
